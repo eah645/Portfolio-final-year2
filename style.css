@@ -1,0 +1,51 @@
+
+body {
+  background-color: #09181f;
+}
+
+h3 {
+  color: #e1e6e5;
+}
+
+/*Navbar*/
+.navbar .navbar-nav .nav-link {
+  font-size: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+  /* font: https://allfont.net/download/carbon-block/ */
+  font-family: "Montserrat", sans-serif;
+}
+
+.navbar {
+  background-color: #750808;
+}
+
+.nav-link {
+  color: #e1e6e5;
+}
+
+/*Button with email*/
+.btn, .btn-primary {
+  background-color: #e1e6e5;
+  color: black;
+}
+
+.btn-outline-primary {
+    background-image: none;
+    border-color: transparent;
+}
+
+
+p {
+  color: #bacad1;
+}
+.display-1 {
+  color: #e1e6e5;
+}
+.card, .list-group-item {
+  background-color: #e1e6e5;
+}
+.list-group-item:hover {
+  background-color: #133591;
+  color: #e1e6e5;
+}
